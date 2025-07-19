@@ -1,0 +1,501 @@
+order_id,product_id,product_name,category,quantity,price,order_date,store_location
+1072173f-3c25-4f84-8783-b3a057750abf,P1014,Toothpaste,Oral Care,4,10.65,2025-01-25,Chicago
+02a808b6-2bff-48b9-82b7-fa2208321945,P1014,Toothpaste,Oral Care,10,25.28,2024-07-26,New York
+179c018f-2f86-4fc6-9cc8-4039d2049678,P1010,Shampoo,Hair Care,8,23.85,2024-12-30,New York
+884e2405-b9d8-4032-8b0b-e91a5363a19f,P1001,Fabric Softener,Fabric Care,4,4.51,2024-07-19,New York
+138c21ec-8270-47f9-baf5-48f7b88d3b78,P1016,Pain Relief Tablets,Personal Health Care,1,3.93,2025-06-10,New York
+2108b613-4b15-49ac-adb2-8ff9a93a3e69,P1010,Shampoo,Hair Care,2,29.84,2025-05-24,New York
+421fb201-dc0f-4e2c-9370-b90d6418ae0e,P1019,Shaving Foam,Grooming,2,25.53,2024-07-22,New York
+3ed4b9d0-7d82-4511-9653-9e09d63f6e86,P1002,Air Freshener,Home Care,2,27.35,2024-11-26,Chicago
+19474f3f-f2ba-4423-ae73-5d10b837030c,P1018,Razor Blades,Grooming,3,2.23,2025-04-21,Chicago
+2f2659f7-a05e-4219-9b7c-35a7279a995a,P1005,Baby Lotion,Baby Care,4,25.14,2024-08-12,Chicago
+a97d0cd4-a5a5-4879-8868-5607d02dc26c,P1017,Cough Syrup,Personal Health Care,5,19.75,2024-07-20,Los Angeles
+032af837-3d37-4c27-9590-ff082a8c958a,P1005,Baby Lotion,Baby Care,5,15.6,2025-02-06,New York
+72fa3237-3ed9-44df-bff0-ce3cae1733d5,P1007,Tampons,Feminine Care,8,11.58,2025-05-02,Chicago
+8fa4b31f-2289-4756-9780-eeb5ce700b6f,P1014,Toothpaste,Oral Care,3,9.9,2025-06-03,New York
+f21036e4-f23a-4d21-b49b-e37d935ad270,P1014,Toothpaste,Oral Care,6,23.13,2024-12-13,Chicago
+e5b03332-b552-4d08-9ba7-78667f12d528,P1007,Tampons,Feminine Care,6,2.02,2025-03-01,Chicago
+004a0a9c-0c59-4376-adf7-a33641ccaa84,P1002,Air Freshener,Home Care,5,12.3,2024-08-11,New York
+cda56ff2-04f0-497f-9ed3-641ff1b45202,P1002,Air Freshener,Home Care,1,17.24,2025-01-03,New York
+c66aa111-5c34-40f1-ba24-d030f2c2cb16,P1016,Pain Relief Tablets,Personal Health Care,5,15.98,2024-08-12,Chicago
+9dad8415-426e-48e9-ae0f-c32d4e921605,P1001,Fabric Softener,Fabric Care,4,4.94,2025-01-24,Chicago
+402f10d1-3fb6-404d-9940-6fefc2a52f32,P1002,Air Freshener,Home Care,9,22.95,2025-02-10,Los Angeles
+93c0436b-945c-4284-b018-30d912862e6b,P1008,Facial Tissues,Family Care,1,10.62,2024-12-22,Chicago
+c70461a7-28fc-4bb4-9e1f-4c7a911aea55,P1002,Air Freshener,Home Care,10,28.61,2025-01-17,New York
+180f67cf-378d-423e-8955-59c0138d6dae,P1001,Fabric Softener,Fabric Care,9,24.92,2024-12-21,Chicago
+1674de1d-9bc2-45f1-a5ea-65d043cd5fd0,P1004,Diapers,Baby Care,4,16.35,2025-02-06,Chicago
+6f6e9985-406c-480e-a074-c03b800ae5bb,P1003,Floor Cleaner,Home Care,6,2.26,2025-03-27,New York
+2abfa6fd-013b-4146-a540-27ea2f0bd460,P1016,Pain Relief Tablets,Personal Health Care,1,5.06,2024-10-01,Los Angeles
+7ab8f8ea-bc37-4539-bfca-b0f11c4abbb8,P1010,Shampoo,Hair Care,4,9.79,2024-09-27,Chicago
+58b3e6e6-f440-447e-8aff-d6334543c91d,P1010,Shampoo,Hair Care,6,8.47,2025-01-18,Chicago
+4b5471c2-96a5-4338-9316-6f289887a22f,P1013,Face Wash,Skin & Personal Care,2,19.72,2024-10-18,New York
+5c61ba91-6cc2-4b9e-a25f-e8fa57979814,P1014,Toothpaste,Oral Care,4,2.4,2024-10-10,Chicago
+bc75e4c1-77eb-42c2-871e-0b33b831c029,P1016,Pain Relief Tablets,Personal Health Care,5,28.45,2025-02-19,Los Angeles
+5b828d04-45ed-4e45-b38b-c8ce682f40dc,P1002,Air Freshener,Home Care,10,4.26,2024-07-23,Chicago
+b893a4d5-5c3d-413b-9caf-da65b195038c,P1004,Diapers,Baby Care,1,24.96,2024-07-24,New York
+d0e5f6e3-8627-44c3-9cfb-d8043df426d7,P1002,Air Freshener,Home Care,10,14.53,2025-04-26,Los Angeles
+66d15443-8d1e-46f1-857a-b2495740f067,P1005,Baby Lotion,Baby Care,3,17.05,2024-09-25,Chicago
+1c1265e0-eb12-41ef-ad44-024952fa79bd,P1008,Facial Tissues,Family Care,9,22.75,2024-08-23,New York
+31617358-96b7-4cdf-80f6-b1dcf717df22,P1001,Fabric Softener,Fabric Care,7,4.19,2024-08-12,New York
+d98966aa-3b7a-4380-9a94-48a319c87d35,P1003,Floor Cleaner,Home Care,3,4.94,2025-04-15,Los Angeles
+ef60c45a-9690-41de-872d-d65b36dcc33c,P1006,Sanitary Pads,Feminine Care,10,9.08,2024-09-24,Los Angeles
+7823e6c3-ed2c-427e-85b6-c24fe51aa561,P1000,Liquid Detergent,Fabric Care,5,24.34,2024-07-15,Chicago
+8edbcff8-b95f-415f-88d6-3325291d0549,P1006,Sanitary Pads,Feminine Care,9,15.21,2025-06-18,Los Angeles
+78c9d280-1d44-4676-a887-6dbb9db859b8,P1018,Razor Blades,Grooming,2,16.82,2025-05-13,New York
+98f57428-a5c4-423f-860d-88edf6d559c9,P1013,Face Wash,Skin & Personal Care,3,27.98,2025-02-23,New York
+8ed5a33b-b3b1-45be-919f-0e12d7706031,P1019,Shaving Foam,Grooming,6,23.52,2024-07-22,Chicago
+4b29b858-7459-4993-9994-83527752905c,P1000,Liquid Detergent,Fabric Care,5,27.16,2024-09-13,Chicago
+19c1d8cf-e04b-48e3-8da0-31eb713a553d,P1007,Tampons,Feminine Care,4,16.03,2024-08-05,New York
+980b279c-97a5-494b-91c3-298f5ee1fe18,P1003,Floor Cleaner,Home Care,10,14.49,2025-04-15,New York
+ba661e6c-e297-474b-b8c0-316f8bc25144,P1004,Diapers,Baby Care,8,8.69,2024-11-26,Chicago
+7187833a-04d9-4632-af05-64be9b491a8c,P1019,Shaving Foam,Grooming,3,22.45,2025-01-24,Chicago
+3fa82c65-786e-4b03-a83c-5bfa77d606b0,P1013,Face Wash,Skin & Personal Care,9,18.48,2025-02-04,Los Angeles
+900e0a2d-1f82-4198-b33b-d70e0abfcfd9,P1000,Liquid Detergent,Fabric Care,6,12.34,2024-09-05,Chicago
+8df511a9-def1-4c07-99fa-d9c2fb90edf8,P1015,Mouthwash,Oral Care,7,7.75,2025-01-04,Los Angeles
+4b8406d4-fa9d-4bfa-9344-1b46032302cb,P1013,Face Wash,Skin & Personal Care,8,21.81,2024-12-31,New York
+bc5cd14f-c1e1-4259-a781-f96f524faa1f,P1007,Tampons,Feminine Care,10,6.66,2025-02-16,Chicago
+adaa5ee8-607b-409b-903b-f5874a00700d,P1010,Shampoo,Hair Care,3,28.24,2025-06-19,Los Angeles
+da3d07a7-2f80-403b-b561-c9edc678770a,P1018,Razor Blades,Grooming,6,19.22,2024-10-24,New York
+c09ac9dd-2b07-4749-b1af-3972a33d4566,P1013,Face Wash,Skin & Personal Care,8,23.18,2025-01-31,Chicago
+7cf32203-4de7-4488-84cc-01f72de64439,P1016,Pain Relief Tablets,Personal Health Care,10,4.86,2024-07-29,New York
+652b3e1e-6922-42b5-8988-b881faa6d53d,P1001,Fabric Softener,Fabric Care,2,23.28,2025-06-22,Los Angeles
+24c9d09a-6e92-418d-b897-5f918738b4d3,P1010,Shampoo,Hair Care,7,9.21,2025-03-11,Los Angeles
+2bb4a8b3-34e3-4ccb-b21c-76721843bfac,P1004,Diapers,Baby Care,10,7.75,2024-08-30,New York
+8eee463d-5202-4f9b-8fd4-cd7c92e6f3d8,P1019,Shaving Foam,Grooming,6,6.71,2025-06-03,New York
+77d5d005-a46d-42c8-bee1-5c124c865c3a,P1017,Cough Syrup,Personal Health Care,1,8.46,2025-03-23,New York
+6d8ae52f-8639-45b0-b8f3-2394b09297dc,P1009,Paper Towels,Family Care,6,12.74,2025-01-16,Los Angeles
+4ec40885-9dba-4c14-b2e6-7e613f9f454f,P1006,Sanitary Pads,Feminine Care,1,8.19,2025-05-19,New York
+8e3ca542-5b03-439f-95e9-38f26e7998b2,P1002,Air Freshener,Home Care,6,4.48,2025-02-02,New York
+5ef23995-7341-4dcc-8a55-53754c668444,P1005,Baby Lotion,Baby Care,3,12.29,2024-10-12,Chicago
+97a30fb2-ff29-44bf-9aa0-ccfafc760855,P1006,Sanitary Pads,Feminine Care,1,26.36,2025-04-19,New York
+04e740a5-6412-40ef-9cea-fdd7a0a8c026,P1000,Liquid Detergent,Fabric Care,4,14.48,2025-02-09,New York
+680a4b8b-cdbe-48d0-8c8f-f151b9e50c5e,P1009,Paper Towels,Family Care,2,22.11,2025-06-27,New York
+75cd6c13-2e3a-44e4-92d6-28aa768279cf,P1007,Tampons,Feminine Care,1,21.81,2024-11-10,Los Angeles
+b774bb9e-71a6-4191-bdce-dc541484d860,P1007,Tampons,Feminine Care,3,16.82,2025-03-10,Chicago
+15b63607-52ad-46b6-ac44-5486ef1155e3,P1001,Fabric Softener,Fabric Care,9,29.4,2024-10-27,New York
+08dcea64-9639-4803-869c-da515a524e3c,P1013,Face Wash,Skin & Personal Care,4,7.08,2024-10-16,Los Angeles
+7820cf27-c24d-4d3f-88db-4ef18754995e,P1019,Shaving Foam,Grooming,4,4.43,2025-01-16,Chicago
+4d84520b-f8a8-4b0d-a384-557aafd6fbfa,P1010,Shampoo,Hair Care,1,22.23,2025-06-01,Los Angeles
+6a46c476-9ba1-4064-aae3-b0b33ddbbdc0,P1010,Shampoo,Hair Care,7,27.52,2025-01-07,Chicago
+47f66058-004a-4b18-8180-5baed18725ec,P1007,Tampons,Feminine Care,4,14.33,2024-08-25,Chicago
+f9ae9c27-fde0-4ef7-8062-2d2cd6e41d15,P1016,Pain Relief Tablets,Personal Health Care,4,2.52,2025-05-10,Los Angeles
+5260a308-d586-434f-824a-e889c93ffd06,P1014,Toothpaste,Oral Care,1,17.91,2024-08-31,Chicago
+4064ac4f-b58a-4dfe-ab34-a50547253f6b,P1013,Face Wash,Skin & Personal Care,2,28.16,2024-11-03,Chicago
+2cb0ff3f-3115-43cd-b1d3-72ce9fe30d9c,P1013,Face Wash,Skin & Personal Care,3,25.04,2024-12-01,Chicago
+86ed9dd9-7a08-48ba-a3da-d6d301f1bbed,P1009,Paper Towels,Family Care,1,13.78,2025-06-10,Chicago
+e5640217-e5f9-4a6d-90c1-c4c9a8cb298f,P1019,Shaving Foam,Grooming,7,5.6,2024-11-25,Los Angeles
+bd0cf104-86eb-43bc-96bf-6a5ea7a8374a,P1016,Pain Relief Tablets,Personal Health Care,10,10.82,2025-03-30,Chicago
+2749e24a-e819-4890-85d7-5cbc36296ee7,P1017,Cough Syrup,Personal Health Care,4,5.7,2024-11-11,Los Angeles
+7ed27548-4128-44b6-8648-60af2389630b,P1006,Sanitary Pads,Feminine Care,9,16.42,2025-05-08,New York
+5429ea00-2299-4008-8fd5-053150ee3bdc,P1012,Body Lotion,Skin & Personal Care,10,26.88,2024-11-11,Chicago
+c30b4bc7-7eb2-494a-9c38-07ddd1a91748,P1001,Fabric Softener,Fabric Care,2,9.77,2025-04-27,New York
+218d0459-91bd-462b-b590-214b5b6e35b4,P1000,Liquid Detergent,Fabric Care,1,22.77,2024-08-03,Los Angeles
+a18c9156-c21f-459b-913c-c3997dd106b6,P1004,Diapers,Baby Care,1,6.56,2024-09-19,New York
+c606fd07-e07f-42ec-9cfe-f4dc074b9791,P1004,Diapers,Baby Care,3,22.35,2024-11-17,Los Angeles
+a64f1159-399a-4156-aa45-ea84512f22f1,P1004,Diapers,Baby Care,9,9.53,2025-05-06,Los Angeles
+8ff30f96-e710-4988-a740-9bada79237c1,P1005,Baby Lotion,Baby Care,2,10.56,2025-05-05,Chicago
+7e214e8c-87e6-4870-9884-8d29dde05761,P1005,Baby Lotion,Baby Care,3,9.49,2024-11-16,Los Angeles
+ee4e8f98-5d52-4fb3-ba01-37376746f513,P1013,Face Wash,Skin & Personal Care,2,18.2,2025-05-22,Los Angeles
+1ca972c3-3fb9-477f-b7b3-4892ba97e75f,P1005,Baby Lotion,Baby Care,2,24.99,2024-09-23,New York
+33c80ad4-6bf8-4870-ad47-d8bd3040110c,P1017,Cough Syrup,Personal Health Care,7,17.68,2025-06-09,Los Angeles
+95a2e5ec-dcf7-4ab2-a6b6-fcae1ca1409b,P1019,Shaving Foam,Grooming,1,16.78,2024-11-17,New York
+323c0932-9cc1-4ea5-8200-0f62784069b9,P1001,Fabric Softener,Fabric Care,8,22.59,2024-10-17,New York
+eee81bb3-4446-4519-9b6e-b2e147b614b9,P1007,Tampons,Feminine Care,9,7.32,2024-09-15,Los Angeles
+e77805e8-3ffa-4291-846c-4d0d6d549959,P1018,Razor Blades,Grooming,6,29.42,2025-01-30,Los Angeles
+cd1ff6cb-09a2-40f2-9c82-30827558bb9f,P1000,Liquid Detergent,Fabric Care,10,11.56,2025-03-30,New York
+bab70d07-c23b-4e42-862a-d22ed45d45be,P1005,Baby Lotion,Baby Care,3,7.96,2024-10-28,New York
+2f2405f6-336c-4604-a379-aa2aef2d16db,P1013,Face Wash,Skin & Personal Care,7,11.36,2025-01-04,Chicago
+fe4477d5-18cb-42be-b869-0acb3d71a64e,P1000,Liquid Detergent,Fabric Care,4,11.48,2024-12-01,Los Angeles
+dcd2f251-1a8d-4d80-8079-f02ee46a0a8f,P1011,Hair Conditioner,Hair Care,4,24.28,2025-03-23,Chicago
+f0ea698d-32a1-4f31-a1cb-62c06f56c400,P1006,Sanitary Pads,Feminine Care,2,15.4,2025-05-01,Chicago
+b9473c6b-6cac-439c-ad73-08c4f9323c4b,P1015,Mouthwash,Oral Care,7,21.33,2025-05-09,New York
+5a210588-c35c-4c76-99c2-a461773de461,P1015,Mouthwash,Oral Care,7,8.39,2024-10-13,Chicago
+15c35d06-0577-48b0-aee5-bab32790faec,P1001,Fabric Softener,Fabric Care,10,4.93,2024-10-23,Chicago
+6cc506ba-22a6-42e2-87e1-d3218d05a161,P1018,Razor Blades,Grooming,9,10.42,2025-01-09,New York
+d4efeba6-5fd5-479a-86a8-d5ee43e8a838,P1015,Mouthwash,Oral Care,5,24.18,2024-10-28,New York
+8430d521-ea4f-4c26-97c1-b6dfa83ffc63,P1006,Sanitary Pads,Feminine Care,3,8.08,2025-03-06,New York
+69399d67-cc48-4fac-be78-92b1af5bec34,P1014,Toothpaste,Oral Care,6,23.53,2025-01-29,Chicago
+ad6833b4-54a0-4a5d-adde-8e7f71809816,P1012,Body Lotion,Skin & Personal Care,3,4.96,2024-08-07,Los Angeles
+fe5069ad-86ee-45b3-9f25-461cd78bda7a,P1003,Floor Cleaner,Home Care,6,9.21,2025-03-27,Los Angeles
+5d3f2a30-cbc6-4d8a-928c-ae067ef44491,P1017,Cough Syrup,Personal Health Care,1,10.61,2025-01-30,Los Angeles
+dcfd91a2-2013-4195-883c-edbe35bbe2ea,P1016,Pain Relief Tablets,Personal Health Care,4,18.48,2025-05-21,Los Angeles
+0a6bb9f7-f1fe-48d2-ba9b-76a06d23a18f,P1002,Air Freshener,Home Care,1,22.62,2025-03-13,New York
+6e556761-ac5e-4807-abc2-6d00045122d8,P1004,Diapers,Baby Care,2,3.58,2025-01-24,Chicago
+569e04ce-2604-4091-841c-0b3cc72e1afd,P1019,Shaving Foam,Grooming,3,12.42,2024-08-22,Chicago
+6cacb351-acb5-4300-96ed-719d80852e94,P1005,Baby Lotion,Baby Care,1,3.88,2024-07-19,Los Angeles
+e8fbf231-5940-4bc3-8dcd-785f3cfc8c33,P1019,Shaving Foam,Grooming,6,29.24,2024-10-14,Chicago
+e65b0b23-19df-47cb-b327-0a5331b098b3,P1005,Baby Lotion,Baby Care,4,2.27,2024-11-11,New York
+671e51dd-00cc-4fb6-8929-c4dead27f381,P1009,Paper Towels,Family Care,2,10.33,2025-06-25,New York
+c22dd60e-27fb-4fa4-b0b8-2ab08b3242b9,P1010,Shampoo,Hair Care,2,5.39,2024-09-24,New York
+9d225f7f-140d-44b5-a3fb-a3c1456dccf9,P1018,Razor Blades,Grooming,4,10.17,2025-01-21,New York
+06dc6c6b-89c3-418b-8402-48e688e8fe24,P1014,Toothpaste,Oral Care,7,17.76,2024-12-08,Chicago
+f5ab4118-8247-452a-8fc9-881ae9079486,P1012,Body Lotion,Skin & Personal Care,1,7.62,2025-02-21,Chicago
+db536249-3957-4f7c-a92c-1574198f1543,P1003,Floor Cleaner,Home Care,1,26.67,2024-12-22,Chicago
+2d70a990-69e6-4f1a-a2c2-daf1a6a73dce,P1006,Sanitary Pads,Feminine Care,2,29.61,2024-09-04,Chicago
+d06c8e48-03ab-40d4-bbc4-4e4502b39668,P1016,Pain Relief Tablets,Personal Health Care,10,19.24,2024-08-25,New York
+a2f53612-5b9d-4d54-a98a-10e19934e817,P1015,Mouthwash,Oral Care,4,9.94,2025-04-14,New York
+834ab01e-40e4-4072-823c-fbb102cf8b1b,P1008,Facial Tissues,Family Care,5,11.18,2024-12-30,Los Angeles
+ac85e767-8f18-4eba-bd2e-0d2fd52a64c7,P1008,Facial Tissues,Family Care,8,22.27,2025-05-19,Chicago
+14f8c559-5c9b-4676-bb33-ee6a428904b2,P1015,Mouthwash,Oral Care,8,16.5,2025-03-04,New York
+2108aff7-a442-4004-9c55-113f680ecf4d,P1014,Toothpaste,Oral Care,5,3.27,2025-06-28,Los Angeles
+e5b6cc09-4aab-4659-bbb8-7672c4e72a19,P1016,Pain Relief Tablets,Personal Health Care,7,14.13,2025-05-01,Los Angeles
+d481db47-b2e9-4bf4-a5ce-ac53088992d7,P1000,Liquid Detergent,Fabric Care,2,6.7,2025-03-22,Los Angeles
+dfe5dd5e-3266-4b32-a844-bcb2a2c45b84,P1018,Razor Blades,Grooming,7,5.84,2024-09-13,Los Angeles
+d3a559aa-94b2-4767-a19f-a30d13992f83,P1004,Diapers,Baby Care,2,28.18,2024-11-25,Chicago
+781c2fbe-b18a-4d95-9a07-1b9e60006dd2,P1011,Hair Conditioner,Hair Care,1,29.3,2024-11-23,Los Angeles
+72fb19d6-a9ac-4336-ab14-84c482403af9,P1002,Air Freshener,Home Care,8,28.54,2024-08-02,New York
+f5a6b15b-7ac6-4d48-8caa-073f368c5f8c,P1003,Floor Cleaner,Home Care,3,29.19,2024-12-27,New York
+a52bcbb8-43ab-4f52-bc66-c12716b3d0d9,P1014,Toothpaste,Oral Care,8,10.11,2024-09-29,Chicago
+1ccf4b35-ff27-4400-aed6-6bf5abe19fb5,P1016,Pain Relief Tablets,Personal Health Care,6,4.75,2024-08-02,Chicago
+8dbf5090-a71b-48ad-b683-cc3fb4f05479,P1010,Shampoo,Hair Care,4,21.09,2024-11-03,Chicago
+500a5160-4f24-410b-b134-4a5c76031145,P1008,Facial Tissues,Family Care,7,23.32,2025-02-07,Los Angeles
+7f81d332-3394-42d1-b097-970d9e7e95e5,P1017,Cough Syrup,Personal Health Care,5,24.51,2024-12-29,Chicago
+74daca56-3979-4cbd-a2f0-3d4f040f902c,P1001,Fabric Softener,Fabric Care,9,27.48,2024-11-06,Chicago
+431bd9b9-d1d5-4c64-8b2e-5542d7ee627c,P1016,Pain Relief Tablets,Personal Health Care,3,2.18,2024-10-02,Chicago
+fed13e79-ef5a-406c-aae6-226b1eee2731,P1006,Sanitary Pads,Feminine Care,7,29.47,2024-12-02,New York
+a08439e0-f267-432f-bccf-482237f1b470,P1014,Toothpaste,Oral Care,8,22.78,2025-04-21,Los Angeles
+c39e0702-f539-4920-a66c-0088e4685478,P1006,Sanitary Pads,Feminine Care,1,24.48,2024-09-24,Chicago
+1e9ed55f-c4d2-47a9-8bac-c483d5b144ce,P1000,Liquid Detergent,Fabric Care,1,7.81,2024-11-07,New York
+3084c325-0171-4b64-861e-6a94d4c1e54f,P1014,Toothpaste,Oral Care,10,8.17,2024-08-29,New York
+a64db0e9-1917-48a6-b3c5-cb26ec516742,P1009,Paper Towels,Family Care,10,18.45,2025-01-13,Chicago
+6db7184d-0860-4e6c-8ff8-ac68f6904808,P1003,Floor Cleaner,Home Care,2,14.58,2025-04-17,Los Angeles
+707fc514-463f-478e-9345-3e8d8d9fc1cd,P1001,Fabric Softener,Fabric Care,4,7.27,2025-04-07,Chicago
+e1b15de7-aaf7-489f-8719-e4a0efde8480,P1015,Mouthwash,Oral Care,7,8.63,2025-06-02,Los Angeles
+a1eefea0-6154-47f2-bdc7-3de85ee3e24c,P1008,Facial Tissues,Family Care,3,23.19,2024-09-28,New York
+f2f5b9a0-032b-4855-9c8a-39bca8c7e8fb,P1002,Air Freshener,Home Care,5,5.37,2025-01-26,New York
+2948cdae-1a30-43b9-b029-121459e9b9cb,P1009,Paper Towels,Family Care,1,27.92,2025-02-03,New York
+4960662f-fee6-4cd8-b569-7c576083003f,P1011,Hair Conditioner,Hair Care,3,27.04,2025-02-28,New York
+6dbd30e6-283b-4402-b34f-0f06fc761899,P1006,Sanitary Pads,Feminine Care,3,8.73,2024-09-02,Los Angeles
+739fcb1d-2a86-4718-8c14-a2038c6a1c80,P1005,Baby Lotion,Baby Care,3,27.14,2024-08-03,Los Angeles
+5a953591-2b56-4fcc-9457-33f43aec16c2,P1014,Toothpaste,Oral Care,1,6.92,2024-11-04,Los Angeles
+c1af334d-dd45-45fd-b231-61bc15d5d129,P1019,Shaving Foam,Grooming,10,14.23,2025-05-12,Chicago
+f62747f6-c794-4ad2-a9f4-71f16bb32a56,P1006,Sanitary Pads,Feminine Care,7,8.85,2024-07-26,Los Angeles
+52741f7a-6f1c-4500-aa46-795bc8c243ce,P1010,Shampoo,Hair Care,3,11.18,2025-03-28,New York
+c0e7ae8a-9e0a-4549-a5f0-3718a67a9f85,P1010,Shampoo,Hair Care,4,10.91,2024-07-22,Chicago
+6fd1945f-884e-45b5-9038-915429c73a10,P1003,Floor Cleaner,Home Care,1,15.29,2025-01-10,New York
+7e0efb59-71ee-46d8-a34c-d14ccf2f0b9b,P1017,Cough Syrup,Personal Health Care,7,4.2,2024-08-09,Los Angeles
+85f844cf-b9f7-49b4-a343-d4f301a1f0e5,P1009,Paper Towels,Family Care,7,16.05,2024-08-19,New York
+f68562d3-7d09-4cdd-b184-f92744bcaf08,P1004,Diapers,Baby Care,10,6.42,2024-12-28,New York
+f6f1b514-12f9-402b-9877-59255ca3f3ce,P1019,Shaving Foam,Grooming,10,9.91,2025-06-10,Los Angeles
+5c93a278-ccee-4db7-a64c-d5413e0accf5,P1019,Shaving Foam,Grooming,9,16.67,2025-01-20,Chicago
+d83aff04-c993-4f0b-97b8-ddbe832f0e45,P1015,Mouthwash,Oral Care,7,16.48,2025-01-24,New York
+080552fb-f9cc-477a-8988-3a5727b14c8a,P1014,Toothpaste,Oral Care,8,25.26,2025-06-17,Los Angeles
+a0c719c4-8018-47d4-a5c1-c08dec564d4c,P1010,Shampoo,Hair Care,7,7.95,2025-02-28,New York
+cb29c5b6-67d5-4511-9f30-a09730e8e67d,P1018,Razor Blades,Grooming,7,10.16,2024-07-09,Chicago
+93ad4c95-aa78-44d9-b2a8-1fde80c97198,P1016,Pain Relief Tablets,Personal Health Care,8,10.41,2025-02-27,Chicago
+d31655f3-1d11-42df-ac8a-7f7c32082a6c,P1009,Paper Towels,Family Care,4,23.47,2024-11-26,New York
+6ac4d17f-7f50-4106-824d-eab81194edaf,P1004,Diapers,Baby Care,1,18.69,2024-08-07,New York
+af819db9-b48e-4ff8-895e-6b9daa73b13b,P1003,Floor Cleaner,Home Care,9,24.05,2024-10-24,New York
+d360206d-dbfc-44d8-a9d6-48f0c82c6677,P1009,Paper Towels,Family Care,1,19.33,2025-01-15,Chicago
+55d884b6-706b-48a7-8c75-349682d03789,P1002,Air Freshener,Home Care,3,13.03,2025-02-22,Los Angeles
+aa1d68d4-fd30-4948-86d4-c00cdd80eb92,P1006,Sanitary Pads,Feminine Care,9,29.99,2024-10-06,Chicago
+a1c273e5-3cb2-4a85-bc9e-0f6fa1ed024b,P1000,Liquid Detergent,Fabric Care,3,3.84,2024-09-12,New York
+69bbdb51-1806-4f79-b413-e05d3f58e97c,P1007,Tampons,Feminine Care,3,27.14,2024-12-27,New York
+ba5b96f6-6c7d-4509-9ea8-255a5c866417,P1017,Cough Syrup,Personal Health Care,6,25.0,2024-11-19,New York
+0a70aecc-a4d4-48cf-bdc1-7b4f3030c659,P1014,Toothpaste,Oral Care,4,27.21,2025-02-11,New York
+ba6eb8d8-8d4b-4feb-98ed-748d3bb56ac9,P1012,Body Lotion,Skin & Personal Care,9,15.47,2024-12-18,Los Angeles
+f55cd839-3348-43a5-8a66-a5f0834c856f,P1009,Paper Towels,Family Care,10,29.82,2024-10-29,Chicago
+85337bab-bb0e-4942-ac36-294f6c01cc13,P1001,Fabric Softener,Fabric Care,8,25.16,2024-11-09,Chicago
+04372d2f-3719-4791-ba42-081381038aee,P1005,Baby Lotion,Baby Care,9,16.65,2025-01-21,New York
+1ce15b4e-0db2-4679-b102-a97c6d57414e,P1006,Sanitary Pads,Feminine Care,3,11.75,2024-12-09,Los Angeles
+a0bad3ae-86ae-4e13-9bdd-8088ae82f3e9,P1003,Floor Cleaner,Home Care,7,15.09,2025-04-05,Los Angeles
+ad99cf67-8760-4374-921a-356177230cde,P1000,Liquid Detergent,Fabric Care,9,7.72,2025-04-02,New York
+736918be-7b34-49bf-98de-292e0e9cdb8f,P1015,Mouthwash,Oral Care,10,23.99,2024-09-02,Chicago
+446842e8-528b-4e81-9243-048815561022,P1012,Body Lotion,Skin & Personal Care,4,5.19,2025-06-10,Chicago
+c7657d65-19f5-4852-83b7-ba5345f02a59,P1001,Fabric Softener,Fabric Care,7,12.1,2024-08-17,New York
+7da1dac7-a8af-4128-aada-6156a48761e6,P1004,Diapers,Baby Care,9,4.45,2025-03-05,Chicago
+81bd29ce-9121-4519-8fd1-1427f3f614a6,P1018,Razor Blades,Grooming,10,9.93,2025-02-16,Chicago
+974b106b-a34e-4869-b9f0-7c756841a281,P1002,Air Freshener,Home Care,3,17.63,2024-08-08,Los Angeles
+2837c46f-4b78-4dbc-8cf3-19eedf71f1dc,P1001,Fabric Softener,Fabric Care,2,7.67,2025-03-04,Chicago
+fd82c036-1af2-4058-849a-436fd7320710,P1002,Air Freshener,Home Care,8,15.15,2024-09-27,Chicago
+4e8351d3-6c82-4e27-9140-8e5e410858de,P1019,Shaving Foam,Grooming,5,29.87,2025-03-04,Los Angeles
+9429713b-6593-4551-9ac0-aedad928aeea,P1004,Diapers,Baby Care,2,28.06,2025-03-03,New York
+543e49b8-93e1-43f7-b13c-22a08939d9c8,P1004,Diapers,Baby Care,7,19.49,2025-03-18,Chicago
+6a0c659a-6544-4346-a4e2-bbf3f0f29465,P1007,Tampons,Feminine Care,10,2.36,2025-01-21,New York
+3e18ecd1-0bf6-480b-a8c0-4cb941754ef7,P1004,Diapers,Baby Care,9,26.12,2025-03-20,Los Angeles
+713e6dae-6e04-4c91-98be-225f2abddcf7,P1000,Liquid Detergent,Fabric Care,10,29.21,2025-01-25,New York
+b4b03bb5-1b40-4f52-8ac6-926d927991c3,P1005,Baby Lotion,Baby Care,3,6.22,2024-10-13,Los Angeles
+970e4896-ab37-4c4e-8dee-e05efc6640fb,P1007,Tampons,Feminine Care,5,5.33,2024-08-08,Los Angeles
+2c899b16-2b74-4ed8-a8de-4656131c4ef0,P1012,Body Lotion,Skin & Personal Care,5,2.76,2024-07-08,New York
+caed9eeb-4502-454b-a663-4e5ed57eee4e,P1017,Cough Syrup,Personal Health Care,5,5.68,2024-08-25,Chicago
+fe4b8fc8-89c1-419c-a07a-72aa1276c10d,P1019,Shaving Foam,Grooming,2,6.39,2025-05-02,Los Angeles
+7b1f596a-4964-4650-a09e-1f1388dabe2f,P1012,Body Lotion,Skin & Personal Care,7,27.69,2025-03-07,Chicago
+1e840441-7389-4655-8e1c-7d3963a9de29,P1008,Facial Tissues,Family Care,4,12.74,2025-02-11,New York
+af5e2d7e-f285-4df6-9b8b-531a1dffad7c,P1006,Sanitary Pads,Feminine Care,2,26.59,2024-10-16,New York
+25581f99-9df1-45a1-b56b-c7cbd42f3672,P1009,Paper Towels,Family Care,6,25.25,2024-12-13,Los Angeles
+04ea28a8-c491-4715-9e00-45becea9f0a2,P1002,Air Freshener,Home Care,5,16.58,2025-05-29,New York
+6cc2f3aa-aeaf-4a29-a3ef-e90869fe844a,P1006,Sanitary Pads,Feminine Care,4,6.13,2024-11-06,Los Angeles
+fef54037-65c6-4e0a-ad9e-17e1ecd833fc,P1017,Cough Syrup,Personal Health Care,7,2.32,2024-10-07,Los Angeles
+e6b67ebb-1035-4b42-9873-7ab9a2778496,P1009,Paper Towels,Family Care,2,27.92,2024-12-27,Chicago
+6b578a89-acfb-4647-9b78-ec645e6c5a26,P1001,Fabric Softener,Fabric Care,5,18.66,2024-09-07,Chicago
+3079ea75-888f-409c-af53-26dbecdb8d6f,P1001,Fabric Softener,Fabric Care,4,25.25,2025-01-10,New York
+182e6762-e020-4c12-b624-f94d2b2e39f4,P1014,Toothpaste,Oral Care,2,10.34,2024-10-26,Los Angeles
+9978e40d-43c7-43c2-8ad1-5cf53844af9a,P1018,Razor Blades,Grooming,4,7.81,2025-06-04,Chicago
+fffa98a3-8a92-433a-ad2f-4d6df9e95694,P1018,Razor Blades,Grooming,3,16.28,2025-01-30,New York
+255a5e27-5ed7-4d8d-9436-e289b67cb421,P1000,Liquid Detergent,Fabric Care,6,25.91,2025-06-19,Los Angeles
+efc83b9f-f43c-46a4-9158-c89295596dcf,P1013,Face Wash,Skin & Personal Care,5,6.99,2024-12-30,Los Angeles
+3c996be0-000e-4bff-b9e4-ca0fb9558951,P1011,Hair Conditioner,Hair Care,2,12.43,2025-05-30,Chicago
+bea1b61c-c537-48b6-af5f-fef0567bcb1d,P1002,Air Freshener,Home Care,3,2.78,2025-06-06,New York
+5e805715-11ad-4bd9-be85-eace31905601,P1010,Shampoo,Hair Care,5,5.84,2025-06-10,Chicago
+bd753f8d-55c0-4b64-900f-d91a4692d98c,P1008,Facial Tissues,Family Care,3,27.65,2024-11-27,Chicago
+a6c378f8-94ed-4076-b924-b1794e099efb,P1004,Diapers,Baby Care,8,8.57,2025-02-23,Los Angeles
+7bd79e0c-ecd0-45b6-b3e3-96999097e8dc,P1014,Toothpaste,Oral Care,5,8.38,2024-10-28,Chicago
+a3172275-8ac3-413a-b927-b0e0b83c9d37,P1001,Fabric Softener,Fabric Care,7,8.5,2025-05-26,New York
+165ab25c-4783-401a-af33-9a3b13fdfd3c,P1019,Shaving Foam,Grooming,3,14.87,2024-12-18,Chicago
+11aaee7b-ee7e-4362-b847-0869d3245dc4,P1012,Body Lotion,Skin & Personal Care,1,2.77,2024-11-27,New York
+5bf20464-9557-4561-bb17-673ddf1fe605,P1017,Cough Syrup,Personal Health Care,10,7.0,2025-03-28,New York
+a9a39a19-7097-44f7-a292-14ad73f518df,P1010,Shampoo,Hair Care,6,6.02,2025-03-04,Chicago
+49fdc1f7-f498-4bc7-98f1-2d1ef1f5aa9b,P1006,Sanitary Pads,Feminine Care,9,24.05,2024-07-06,New York
+887361a1-19a8-4316-9eb2-a15111b80747,P1005,Baby Lotion,Baby Care,4,11.91,2024-09-22,Chicago
+9f2d8c01-efc7-4ee6-85ae-070765f3607e,P1015,Mouthwash,Oral Care,8,19.38,2025-05-04,New York
+68946177-87c5-4a38-a3c2-7b4c7571eb44,P1015,Mouthwash,Oral Care,6,3.48,2024-08-22,New York
+8b95276f-15b2-46cf-bbe1-dfc427592d87,P1001,Fabric Softener,Fabric Care,6,25.51,2025-01-24,Los Angeles
+2b8407d3-f653-424c-9546-2029379417f0,P1000,Liquid Detergent,Fabric Care,6,4.26,2024-12-19,New York
+cae3d2da-8791-4958-9e18-66bfc3d2539a,P1004,Diapers,Baby Care,10,20.96,2024-12-27,New York
+b87ee877-d1c3-4c75-a628-9647519aee8d,P1013,Face Wash,Skin & Personal Care,10,29.84,2024-07-13,Chicago
+3e1ab76f-285b-4ef2-9251-c1128dd4dada,P1014,Toothpaste,Oral Care,1,15.53,2024-11-17,Los Angeles
+d290f04d-0940-4f1a-94cf-8b5bd24e916f,P1013,Face Wash,Skin & Personal Care,7,26.37,2025-01-19,Chicago
+18948caf-78d6-4249-a5ea-f7c1cedbe543,P1015,Mouthwash,Oral Care,10,23.5,2025-02-23,Los Angeles
+d7e59e8a-5c1a-43ed-bdb6-62ba30c87d47,P1003,Floor Cleaner,Home Care,9,10.33,2025-03-16,Chicago
+fdc29f0a-f1e7-46a0-ae91-1ec8b4d5a5b8,P1003,Floor Cleaner,Home Care,6,24.58,2024-07-26,Los Angeles
+b33364ad-35e8-42d6-9586-a7deef25da15,P1017,Cough Syrup,Personal Health Care,3,8.51,2025-02-25,Chicago
+b604195c-607d-42d9-ab1f-4b47d1928b29,P1003,Floor Cleaner,Home Care,5,29.87,2025-04-05,Chicago
+34c283f6-f56d-4b97-9a5f-96bff3ad1517,P1018,Razor Blades,Grooming,10,23.9,2025-06-06,Chicago
+fa59043b-7452-49e4-beca-eeb9d1d1d847,P1010,Shampoo,Hair Care,7,2.53,2024-12-01,Los Angeles
+1ba1ffa2-5b4c-4e1f-8560-112db20f1a97,P1018,Razor Blades,Grooming,5,22.63,2025-03-28,Chicago
+2b6ceced-5a24-4885-99bb-bb5c797c8f9b,P1018,Razor Blades,Grooming,3,7.37,2025-03-31,Chicago
+f7c8e76a-5873-418d-8e08-afe5b00d55ee,P1002,Air Freshener,Home Care,10,5.93,2025-04-10,Los Angeles
+356084ed-d0d0-456c-9faa-adf62a88b68d,P1016,Pain Relief Tablets,Personal Health Care,9,3.79,2025-04-17,Chicago
+ce54200a-11f0-4d6e-9c81-02b408d5bcd2,P1018,Razor Blades,Grooming,3,3.95,2025-02-11,New York
+9951f5b5-1d19-45fa-96e4-ebb9dc9d6854,P1012,Body Lotion,Skin & Personal Care,8,25.21,2024-11-13,New York
+683fd004-57fb-484f-beb6-b8e190c1956c,P1011,Hair Conditioner,Hair Care,3,19.43,2025-03-15,Chicago
+59c0b2b3-c6e1-4661-a44c-129c10fcfdd6,P1012,Body Lotion,Skin & Personal Care,5,21.11,2025-02-20,Los Angeles
+36030c43-9664-45f8-b3dd-31cd33b80aa5,P1013,Face Wash,Skin & Personal Care,4,2.92,2025-04-18,New York
+809cf0df-f1e9-49f5-9e0d-4b10ee2e05bf,P1011,Hair Conditioner,Hair Care,2,7.44,2025-05-11,New York
+f234b797-16f4-4554-8187-7bfe0b7e7ce0,P1017,Cough Syrup,Personal Health Care,10,23.05,2024-09-25,Chicago
+d3beba8e-5e0a-49bf-aae5-837b37ee2ea6,P1006,Sanitary Pads,Feminine Care,8,16.03,2025-05-15,New York
+9fffa0a3-dbe0-4956-8d70-462bdc8e849d,P1007,Tampons,Feminine Care,3,20.13,2024-10-27,Chicago
+951ca736-1fc0-4f93-9272-c5a86898ab67,P1005,Baby Lotion,Baby Care,7,8.25,2024-08-04,New York
+2192e4fd-2d0f-4e54-afbc-a960122a8830,P1005,Baby Lotion,Baby Care,7,5.18,2024-07-23,New York
+4b2f5583-bc8e-40de-8462-e480427c3d6b,P1008,Facial Tissues,Family Care,2,24.04,2024-09-29,Chicago
+9b48a355-7e75-4d09-8e9d-fe158377b7de,P1005,Baby Lotion,Baby Care,10,29.48,2025-03-01,Los Angeles
+ae199f8b-d5d9-4c20-9caa-1a9fd42849fe,P1017,Cough Syrup,Personal Health Care,3,25.52,2024-10-13,Chicago
+a5051a5c-9863-43eb-8d13-78013236a1fb,P1012,Body Lotion,Skin & Personal Care,8,13.72,2025-04-02,Chicago
+27affe1c-3d7a-4093-bcc2-34a0cf0acd3a,P1007,Tampons,Feminine Care,9,12.02,2024-09-29,Chicago
+775af24b-11d8-4b56-846e-c6af5e39171a,P1010,Shampoo,Hair Care,9,27.79,2025-01-15,Chicago
+dfa29bf8-36d2-463d-aa90-b73eae20bbba,P1000,Liquid Detergent,Fabric Care,1,25.49,2024-12-28,Los Angeles
+8a77f050-bff5-4d02-9c0d-8b936ba57191,P1007,Tampons,Feminine Care,2,12.47,2024-11-26,Chicago
+43bb3b4f-c549-4bc4-8210-6c16cc54f075,P1000,Liquid Detergent,Fabric Care,3,26.4,2025-03-12,New York
+31efc9c0-a842-4a60-be00-4246832a0c89,P1008,Facial Tissues,Family Care,4,9.83,2024-07-05,Chicago
+f905b996-fd05-4975-9ee0-d026577d5dfb,P1017,Cough Syrup,Personal Health Care,9,14.95,2024-08-20,New York
+8fb75cc2-92d2-4440-bfdb-efbeb72299df,P1016,Pain Relief Tablets,Personal Health Care,6,21.47,2024-07-26,Los Angeles
+77199577-426e-4895-bd98-12cc07915dc4,P1013,Face Wash,Skin & Personal Care,7,23.48,2024-11-22,New York
+673321bd-22be-486e-812c-0d17174f082d,P1002,Air Freshener,Home Care,2,7.53,2024-10-25,Chicago
+7c9e5980-da75-4fa2-ac5a-2c202aa0594b,P1016,Pain Relief Tablets,Personal Health Care,6,7.21,2024-08-20,New York
+7542280a-abfa-4232-b798-4c98ac6db6bf,P1005,Baby Lotion,Baby Care,7,26.12,2024-12-28,Los Angeles
+0c7097e3-a99c-4ce4-bf58-e8c452c5924f,P1003,Floor Cleaner,Home Care,3,29.59,2025-06-21,Los Angeles
+c5027fae-a8e3-46fb-8561-2ae3a221d816,P1008,Facial Tissues,Family Care,9,20.85,2025-05-25,Los Angeles
+a46ac003-5616-4307-b4dd-955c0c1f9605,P1000,Liquid Detergent,Fabric Care,10,4.85,2024-09-14,Chicago
+befd6cc2-c6ac-466f-8d71-b67d92449f2d,P1003,Floor Cleaner,Home Care,9,21.3,2025-05-17,Chicago
+4640eda6-6bcd-4f99-b1b2-55eb8bca9690,P1019,Shaving Foam,Grooming,10,7.79,2025-06-24,Los Angeles
+43fa9ba4-737f-4f46-b7fc-9d66bad12dd4,P1004,Diapers,Baby Care,5,8.71,2024-10-04,Chicago
+288f37ea-9125-4352-b5c5-d7233be84847,P1007,Tampons,Feminine Care,8,10.72,2024-09-23,New York
+90e08d05-6df1-4d18-be0d-5b93b0363769,P1008,Facial Tissues,Family Care,10,6.4,2025-05-07,Chicago
+86c10173-7ea7-4773-946f-f3269a203d96,P1006,Sanitary Pads,Feminine Care,5,26.53,2024-12-19,New York
+5d18d15f-963c-4a59-b9d6-62d262164954,P1005,Baby Lotion,Baby Care,3,2.48,2025-06-03,Los Angeles
+f3e8452d-6c90-4f68-acd9-3f0561886973,P1011,Hair Conditioner,Hair Care,6,9.62,2024-11-16,New York
+1918f93d-3924-40f2-90e8-0ee9bbc77d17,P1013,Face Wash,Skin & Personal Care,9,16.45,2024-08-13,Chicago
+eb9a1732-60ed-44e5-9013-5a881cf5d136,P1009,Paper Towels,Family Care,5,6.35,2025-01-25,Los Angeles
+9e0fc2a5-0ff9-42f0-9a0c-0a84d6661724,P1018,Razor Blades,Grooming,9,5.18,2025-03-03,New York
+0020329d-947f-458b-96d1-729c601958c2,P1004,Diapers,Baby Care,5,29.92,2024-11-23,New York
+7f3f5d5c-faed-4a38-ac2d-b239368646f7,P1001,Fabric Softener,Fabric Care,6,19.22,2024-09-28,Los Angeles
+24516057-1b21-407e-a6fa-5b36aeebfff4,P1001,Fabric Softener,Fabric Care,4,9.21,2025-04-26,New York
+759c2315-d09d-46fd-b4b0-4875419e38fb,P1011,Hair Conditioner,Hair Care,9,10.38,2025-04-30,Chicago
+486d7668-fa67-4e70-bdeb-009936abe9c3,P1018,Razor Blades,Grooming,10,27.72,2025-06-17,Los Angeles
+120549be-93af-4614-9e42-4c683078a063,P1003,Floor Cleaner,Home Care,4,18.22,2024-10-24,New York
+8b48aacf-2474-40c4-9330-b797bc24c5d8,P1000,Liquid Detergent,Fabric Care,8,12.7,2024-11-20,New York
+5e911a8e-d728-47b3-ba97-5c23f68bc1c3,P1009,Paper Towels,Family Care,10,20.71,2024-07-20,New York
+8ca3a769-7291-47a4-a729-11086f2ed337,P1013,Face Wash,Skin & Personal Care,7,17.06,2025-02-07,Los Angeles
+a819da56-ec80-4d46-83a9-43998faea963,P1000,Liquid Detergent,Fabric Care,8,3.84,2024-11-20,Chicago
+915942bb-e708-4ae4-8b06-6326aa929414,P1011,Hair Conditioner,Hair Care,9,15.38,2025-04-05,Chicago
+0fffcb39-14c0-4cac-9acb-06cc98549510,P1008,Facial Tissues,Family Care,5,27.86,2025-01-30,New York
+4808a5e5-08de-4914-9ea3-b9711d7a682e,P1010,Shampoo,Hair Care,9,18.09,2025-04-15,New York
+7a7dfa11-51c7-4184-bd44-efeb004db262,P1018,Razor Blades,Grooming,6,19.19,2025-01-08,New York
+bafc9c82-03bd-4a86-abcd-060523cd9b8f,P1012,Body Lotion,Skin & Personal Care,10,3.86,2024-09-27,Chicago
+464a52ae-da98-4612-80f7-1ed069e644c8,P1001,Fabric Softener,Fabric Care,9,26.2,2024-08-07,Chicago
+09c17b64-c402-49dc-9433-12477cf7f55d,P1011,Hair Conditioner,Hair Care,9,23.04,2025-02-19,Chicago
+941a3bd5-fa54-4f0e-b8f0-e284aee7dfd8,P1016,Pain Relief Tablets,Personal Health Care,3,11.47,2025-01-31,Los Angeles
+6c936eb6-7ad5-49f5-88f5-144553eedcaa,P1005,Baby Lotion,Baby Care,10,6.8,2025-06-13,New York
+e978109f-ae6b-47e9-bfdf-fe0d3c3059d9,P1005,Baby Lotion,Baby Care,10,3.61,2025-03-02,Los Angeles
+734f209e-3eeb-4b80-9cf9-4dd5ab7ebe56,P1010,Shampoo,Hair Care,5,17.73,2024-08-22,New York
+9fa559a8-de43-4e24-b9d9-4e149f2f0294,P1003,Floor Cleaner,Home Care,10,4.21,2024-11-02,Chicago
+e9c5ae9b-6946-46cc-b534-7675e58abe21,P1010,Shampoo,Hair Care,2,28.33,2025-02-10,New York
+8557b48b-efac-43cb-8f2a-ab46da81e7e4,P1007,Tampons,Feminine Care,8,14.26,2024-11-16,New York
+dc43c4c2-9879-4750-9b45-0d6d5021c1a1,P1014,Toothpaste,Oral Care,2,22.99,2024-07-13,Chicago
+04b7921e-45aa-4382-8b01-f484c2cea2cd,P1000,Liquid Detergent,Fabric Care,9,5.85,2025-03-08,New York
+7c3350a1-4202-4f27-a542-7d35f2779c3d,P1015,Mouthwash,Oral Care,4,13.74,2024-10-28,Chicago
+41129829-f33e-4757-a456-aae81fb6e8ba,P1014,Toothpaste,Oral Care,9,2.92,2024-09-13,Chicago
+97ff1bec-b22d-494e-8099-965af1d56c8a,P1010,Shampoo,Hair Care,9,18.49,2025-02-28,New York
+f38e1168-73da-4101-9cf8-ed0174295d18,P1005,Baby Lotion,Baby Care,7,10.06,2024-08-08,Chicago
+dcdddb5a-57a6-46e4-a1ca-6ced30d01518,P1013,Face Wash,Skin & Personal Care,1,19.54,2024-10-16,Chicago
+1f859449-d3c5-4205-a5f2-f4cc8c4eefdd,P1008,Facial Tissues,Family Care,7,2.69,2025-03-15,Chicago
+aabcf8ee-e7f0-4d9c-8a73-f34c2cab78f9,P1002,Air Freshener,Home Care,4,26.03,2024-08-27,New York
+9b4e040e-92eb-4010-b930-5d4cd0de1ab1,P1012,Body Lotion,Skin & Personal Care,6,14.08,2025-03-26,New York
+474be8d0-f9a7-4325-9ec7-aa24e8f91ff5,P1000,Liquid Detergent,Fabric Care,9,11.06,2025-05-31,Chicago
+8596d77f-65a5-4ec8-904c-dcb859712598,P1016,Pain Relief Tablets,Personal Health Care,7,21.51,2025-03-17,Chicago
+da5ec39e-30e2-4145-82dc-21b831d8aeb5,P1010,Shampoo,Hair Care,1,18.81,2025-05-23,New York
+52cbdfd8-6790-48e8-b376-ff8993b3f2ab,P1005,Baby Lotion,Baby Care,2,23.45,2024-09-26,Los Angeles
+c378af45-a94b-4ba8-8112-7e44a5021e5e,P1015,Mouthwash,Oral Care,8,23.1,2025-01-07,Chicago
+8c16cbf3-2346-4693-be29-c93349c1aca1,P1013,Face Wash,Skin & Personal Care,8,2.64,2025-04-05,Chicago
+ebcb4266-f270-4b9a-b93b-e4caaf82e56d,P1013,Face Wash,Skin & Personal Care,10,28.74,2025-05-20,Los Angeles
+03ac81f2-341c-4421-8bc3-8328b954c6d6,P1015,Mouthwash,Oral Care,9,22.41,2024-07-14,Los Angeles
+a150e610-8d52-488c-8618-e7846d33d43c,P1013,Face Wash,Skin & Personal Care,6,25.53,2025-01-09,New York
+1855bdf7-6b5c-4551-8422-4006a3654152,P1011,Hair Conditioner,Hair Care,8,27.47,2024-08-22,Chicago
+a14015d6-4a11-4801-aa78-f87fd90bc990,P1008,Facial Tissues,Family Care,10,28.55,2024-08-30,Chicago
+4ee4699c-af59-46bf-bc2a-cc7a1a0036d0,P1017,Cough Syrup,Personal Health Care,5,13.1,2024-10-24,Chicago
+669b5727-5219-421c-8b5e-8ebf374dd993,P1002,Air Freshener,Home Care,1,2.01,2024-11-03,Chicago
+84c436a8-c87b-4a9e-aed5-897accd3b54d,P1004,Diapers,Baby Care,4,24.44,2024-09-11,Los Angeles
+9f82ef59-635b-4864-9180-5d6a66975d3d,P1008,Facial Tissues,Family Care,7,27.03,2025-02-11,Chicago
+eecd816b-229b-456e-b1f6-4cef176851c9,P1002,Air Freshener,Home Care,9,27.82,2024-09-03,Chicago
+2d3d6db1-f8ba-41e4-9757-78aa71dc1233,P1018,Razor Blades,Grooming,6,27.7,2024-07-18,New York
+601cf5b7-608c-46ed-b626-238f4613ab84,P1007,Tampons,Feminine Care,8,21.73,2024-12-03,Chicago
+a1df9c12-566e-47f1-9c1e-600889f39346,P1015,Mouthwash,Oral Care,5,10.67,2024-07-28,Los Angeles
+cdaa1745-64ce-4e2c-af12-364ebfd863f1,P1009,Paper Towels,Family Care,8,13.12,2024-10-10,New York
+ce1c6b81-394d-4cfe-a1ad-093fa24395f2,P1003,Floor Cleaner,Home Care,2,6.66,2025-06-19,Los Angeles
+c11c69f1-733f-454a-825b-30c3e86359ab,P1014,Toothpaste,Oral Care,9,2.07,2024-10-26,New York
+a5997155-2cf8-48ff-8d41-e96b7ce9edfc,P1007,Tampons,Feminine Care,6,22.09,2025-03-25,Los Angeles
+65aa08ad-28e6-4494-9054-647f6edd5e98,P1009,Paper Towels,Family Care,5,22.52,2025-06-05,Los Angeles
+182fd59c-a588-4582-90f7-5f7a0ea51fef,P1001,Fabric Softener,Fabric Care,6,21.41,2024-10-19,New York
+1335ac6b-3030-416a-85fe-86aa36886b0d,P1006,Sanitary Pads,Feminine Care,3,19.38,2024-08-23,Los Angeles
+78761e5d-db3d-484e-bafe-ea951ca97565,P1009,Paper Towels,Family Care,6,21.87,2025-06-17,Chicago
+7d3f76d6-6913-461f-866d-7dde297403c8,P1004,Diapers,Baby Care,1,6.41,2024-09-22,Chicago
+12684499-e525-4d37-b6a1-a1589d305f08,P1017,Cough Syrup,Personal Health Care,7,15.64,2025-04-27,Los Angeles
+b730e010-181d-4faf-9b5a-3e5c83d635d2,P1016,Pain Relief Tablets,Personal Health Care,6,15.12,2025-01-02,New York
+088813db-8578-4801-b546-3100b0218aea,P1011,Hair Conditioner,Hair Care,4,19.61,2024-11-03,Los Angeles
+4f7ab1fa-fb12-4c3d-88de-c24f19263b61,P1013,Face Wash,Skin & Personal Care,2,24.86,2025-03-08,New York
+5af1a113-e7c1-48d4-86bb-28dbea4ca289,P1000,Liquid Detergent,Fabric Care,8,28.08,2025-04-30,Los Angeles
+c5aea52d-9a6d-4a40-b021-2fb51cfb6c42,P1005,Baby Lotion,Baby Care,3,27.92,2025-04-12,Los Angeles
+34b0bef0-c568-4408-a42e-4b749a82d211,P1019,Shaving Foam,Grooming,1,10.31,2025-06-08,New York
+edde1219-8f2b-42de-b7ff-63870f13e1d2,P1001,Fabric Softener,Fabric Care,10,26.38,2024-12-10,New York
+2cbd87e8-d24c-48c2-99a8-38adac7e2158,P1015,Mouthwash,Oral Care,8,22.99,2025-05-07,New York
+98bd3f48-ffbd-4dd4-8f0a-81d85b0f8ca7,P1002,Air Freshener,Home Care,2,22.12,2025-06-08,New York
+eaf7111b-1721-41af-9d5f-2be52bc09d20,P1009,Paper Towels,Family Care,1,2.91,2025-03-17,Los Angeles
+2ead54e3-ec15-4939-9879-57dabe7fa7ea,P1017,Cough Syrup,Personal Health Care,3,25.56,2024-10-25,Los Angeles
+a85d7d36-2811-4d02-bf89-436b8a0eb47c,P1017,Cough Syrup,Personal Health Care,8,14.52,2024-10-01,Chicago
+460625ca-324d-4559-902a-f07cb82bfea9,P1007,Tampons,Feminine Care,8,13.49,2024-07-25,Chicago
+b6642a31-7218-45fd-89ae-fe3d84b659c7,P1019,Shaving Foam,Grooming,9,3.2,2024-11-25,Chicago
+95786760-e8be-47f8-9a2f-11b6583bf89a,P1011,Hair Conditioner,Hair Care,7,15.68,2024-07-03,Chicago
+c4d6132d-9973-4f55-af07-24c53c1cbaf9,P1013,Face Wash,Skin & Personal Care,2,9.5,2025-05-30,Chicago
+298b8e3c-6f7b-4ef5-bf90-651effec9bcd,P1009,Paper Towels,Family Care,10,10.53,2025-03-04,Chicago
+e0bcf96f-078e-4ee8-95de-6c30ca15a8fb,P1002,Air Freshener,Home Care,4,18.85,2024-09-16,Chicago
+e7ed131f-b611-427d-8b2f-cb9462d4e53e,P1005,Baby Lotion,Baby Care,8,28.75,2025-04-24,New York
+7d9dc8c6-1013-4355-9ff0-0ed7ceeb5d82,P1005,Baby Lotion,Baby Care,1,25.62,2025-05-03,Los Angeles
+550b1e36-d061-4146-b5b9-4bc193a7b4dc,P1008,Facial Tissues,Family Care,2,4.18,2025-02-13,New York
+f4c18359-c2de-476c-a082-b54ae6da02df,P1014,Toothpaste,Oral Care,3,6.72,2025-02-15,Los Angeles
+cbd68abf-2b17-4e57-82a6-564aff3a8dfc,P1000,Liquid Detergent,Fabric Care,7,12.18,2024-12-11,New York
+95d67835-6848-40d0-ac2b-b81bbb1012c3,P1007,Tampons,Feminine Care,3,25.86,2024-11-28,Los Angeles
+d8451a02-0b96-4ee0-a169-6dd5f1a06ec1,P1011,Hair Conditioner,Hair Care,10,9.55,2025-02-05,New York
+5f115066-bbff-4fbc-af90-28887c306019,P1013,Face Wash,Skin & Personal Care,6,9.45,2025-03-24,Chicago
+8223625c-e11d-4e4c-889c-4b111fd20347,P1002,Air Freshener,Home Care,8,3.19,2025-06-07,New York
+8e7e5c5d-606b-406b-883a-c9306e0a17d3,P1000,Liquid Detergent,Fabric Care,2,15.67,2025-03-02,Los Angeles
+294887f4-08b9-4d87-bf96-a9ab4b5b07b2,P1016,Pain Relief Tablets,Personal Health Care,5,17.39,2025-02-06,Los Angeles
+261a6344-6ad2-4c7c-97dd-8cd4f2cbf64b,P1012,Body Lotion,Skin & Personal Care,2,14.09,2024-12-21,Chicago
+960dbf88-7717-4ee6-a71c-e71a1e0305e4,P1000,Liquid Detergent,Fabric Care,8,10.33,2024-11-30,Los Angeles
+06af3a77-12ee-416d-8225-304832b202f7,P1018,Razor Blades,Grooming,9,26.77,2024-09-03,New York
+88025184-87e6-4845-afd5-6f96675e1e58,P1004,Diapers,Baby Care,8,4.16,2025-04-12,Chicago
+72ff19e0-7cba-4acd-953b-9b97d5c6646d,P1011,Hair Conditioner,Hair Care,8,10.39,2025-04-19,New York
+c8af191e-aad1-42cf-a08b-dab6f655fd49,P1017,Cough Syrup,Personal Health Care,5,9.97,2024-09-26,Los Angeles
+9bcaafd5-0ec4-408e-8a46-d5552b6e1524,P1019,Shaving Foam,Grooming,2,27.29,2025-05-23,Chicago
+a6424fa4-fa07-44ef-95f6-fa924fe8b37a,P1014,Toothpaste,Oral Care,3,28.13,2024-08-18,New York
+d807fea1-121a-4ef8-a164-242bac0384c0,P1003,Floor Cleaner,Home Care,5,16.99,2024-08-16,Chicago
+786621d8-1b55-46b6-bd98-d366c4f553df,P1001,Fabric Softener,Fabric Care,3,28.26,2025-05-01,Los Angeles
+27ac252e-9260-4eb9-ac1f-0e6e69ee7795,P1011,Hair Conditioner,Hair Care,4,22.2,2025-04-22,New York
+f1490a57-7ec7-48b5-9a16-6ed6a347e638,P1009,Paper Towels,Family Care,7,6.75,2024-08-09,New York
+429769f3-6ba4-4bd5-b4df-db39f787e139,P1015,Mouthwash,Oral Care,4,7.19,2025-03-28,Chicago
+accf4d12-a64a-4588-994b-f84235c920f9,P1008,Facial Tissues,Family Care,4,25.9,2025-01-29,New York
+9e4eddf9-ba96-441a-9c6a-867bdc85036d,P1004,Diapers,Baby Care,1,16.53,2025-04-10,Los Angeles
+571e7349-9610-4c79-a96a-22fc9878457a,P1019,Shaving Foam,Grooming,8,16.8,2025-02-09,Los Angeles
+8a7a54e0-1b95-430a-a9a7-eefae6b1345b,P1006,Sanitary Pads,Feminine Care,10,13.51,2025-04-21,Chicago
+f5c4931e-7c5a-4f72-bd60-e827a9350f4f,P1012,Body Lotion,Skin & Personal Care,8,16.7,2024-08-18,Los Angeles
+3afddebf-5d6c-48b2-aa24-b205f12bbafd,P1004,Diapers,Baby Care,6,6.05,2025-05-07,Los Angeles
+29eef873-01dd-4bb0-8b8c-273b926c84c8,P1007,Tampons,Feminine Care,1,20.09,2025-03-17,Chicago
+99f86ac8-5019-46f6-86d6-34e6987785d1,P1015,Mouthwash,Oral Care,9,27.68,2024-07-27,New York
+770482fd-9972-4c94-8d4c-dc6bc575145b,P1009,Paper Towels,Family Care,6,24.05,2024-12-25,New York
+58f68382-a718-45b4-ab0c-f2fdb4dd9fb5,P1006,Sanitary Pads,Feminine Care,6,10.17,2024-07-24,Los Angeles
+0f32b0ce-420d-4ea5-bee7-3b20e795d6be,P1007,Tampons,Feminine Care,2,22.68,2025-06-13,New York
+e8158243-59f2-49b1-9c51-fd7310dfe255,P1003,Floor Cleaner,Home Care,8,11.71,2025-01-03,Chicago
+96b2309b-c11c-411f-ba4a-439215cf9a59,P1013,Face Wash,Skin & Personal Care,8,16.4,2025-01-30,Chicago
+edf4da67-05a2-4eca-8999-051e19c1ca7f,P1012,Body Lotion,Skin & Personal Care,10,18.38,2024-08-06,New York
+fbaf9d1d-0ffc-4ed5-9890-f6468674f74c,P1007,Tampons,Feminine Care,9,7.38,2024-12-01,Chicago
+a6b82e0d-3fea-4f62-aa01-5cf049ed23dd,P1004,Diapers,Baby Care,4,13.26,2025-02-18,Los Angeles
+a861cd76-6269-49c9-ac32-d0239907af41,P1015,Mouthwash,Oral Care,5,20.44,2025-05-18,New York
+706d9d4f-40de-4eed-8f9f-53093c2d4441,P1010,Shampoo,Hair Care,7,23.69,2025-02-17,Los Angeles
+40fb5ed2-f6c8-4ec3-a47b-f435d9bcd9f7,P1018,Razor Blades,Grooming,8,11.64,2025-04-12,New York
+b299a871-dd0f-496e-96db-5f6c7d636f69,P1011,Hair Conditioner,Hair Care,9,13.57,2024-09-20,Chicago
+792dc256-7099-472b-a138-0da402163647,P1018,Razor Blades,Grooming,1,15.69,2024-09-12,Los Angeles
+9eed2d23-7ec1-4afc-8ee0-498771118d1b,P1010,Shampoo,Hair Care,5,12.85,2024-10-08,New York
+cf2b9dc4-8d52-4fca-be45-aade4e47b9aa,P1007,Tampons,Feminine Care,8,9.07,2025-05-15,New York
+a65ef0aa-6804-494c-9956-aa91b6fc906f,P1001,Fabric Softener,Fabric Care,7,2.44,2025-05-20,New York
+af12dd30-3681-44e9-a551-4ac5b1858444,P1003,Floor Cleaner,Home Care,10,27.25,2025-03-02,New York
+f1e278a9-5267-43e3-9db3-fbc256ddaa00,P1004,Diapers,Baby Care,10,7.98,2024-09-27,Los Angeles
+436cea9b-0894-45cc-bcd7-ff47cf1b06d0,P1003,Floor Cleaner,Home Care,7,15.42,2024-08-03,Los Angeles
+8edcd96c-e067-4147-b039-e47f054c5c7b,P1016,Pain Relief Tablets,Personal Health Care,4,15.69,2025-04-04,Chicago
+71811f6b-70d2-4e50-b2ec-f6c47d1d27d4,P1017,Cough Syrup,Personal Health Care,4,21.4,2025-04-02,Los Angeles
+20b43b64-a250-4d49-89f0-f04a89870ec6,P1005,Baby Lotion,Baby Care,2,4.27,2024-07-03,Los Angeles
+95b36b02-217c-4ab5-bdc7-b05c4ed471c7,P1014,Toothpaste,Oral Care,9,25.9,2025-02-17,Chicago
+79146f97-3909-4ec9-b8c9-bd31af783c3b,P1018,Razor Blades,Grooming,8,27.16,2025-02-06,New York
+19be9c73-2ed3-42c0-ad85-a3c0c6d1c1a8,P1006,Sanitary Pads,Feminine Care,4,6.65,2024-09-21,Los Angeles
+e7609b96-7426-477b-8f74-8636cec2a323,P1019,Shaving Foam,Grooming,8,12.08,2024-12-30,Los Angeles
+5abfa226-2849-496c-9f13-eb44538d4939,P1001,Fabric Softener,Fabric Care,2,15.26,2024-11-05,Chicago
+02430ee9-df6e-4bd0-9d7e-b70f9e8fe0bf,P1007,Tampons,Feminine Care,3,26.0,2024-10-15,Chicago
+5d0e93f0-7287-45a7-be4b-0d5eba8c2b54,P1017,Cough Syrup,Personal Health Care,2,19.28,2025-03-23,New York
+bfb30788-8c69-4118-aa68-648b56ea2fc4,P1003,Floor Cleaner,Home Care,5,9.04,2025-02-14,Chicago
+3d18bcd8-f97b-4639-b8ef-50e1a629af5b,P1016,Pain Relief Tablets,Personal Health Care,3,8.91,2024-11-10,New York
+fc587125-74f2-4917-bef8-9987e40fdf13,P1014,Toothpaste,Oral Care,6,24.31,2025-03-20,New York
+144765d0-bca0-43cf-a576-4f0eb72b43ef,P1017,Cough Syrup,Personal Health Care,3,15.59,2025-01-27,New York
+015c9d4a-5190-42c7-993b-d4f523b4895e,P1001,Fabric Softener,Fabric Care,10,13.7,2025-01-03,Chicago
+0aa0b0f4-5744-4a36-8da4-62089d9ef16c,P1015,Mouthwash,Oral Care,1,8.83,2025-02-07,Chicago
+7376fb10-f51a-4c33-a75c-e51e9d7c9875,P1013,Face Wash,Skin & Personal Care,4,21.92,2024-11-20,Los Angeles
+96fd4913-09b5-44ea-a4e4-795f6b3015e6,P1015,Mouthwash,Oral Care,4,29.6,2025-02-01,Los Angeles
+fdaca76a-54d3-497e-bb6d-33c798a30e96,P1015,Mouthwash,Oral Care,8,29.93,2024-09-23,New York
+6134f6d4-ef81-4c9c-9878-d1cc20484c26,P1008,Facial Tissues,Family Care,7,2.69,2025-04-29,Chicago
+2c06cdd9-44bf-4e83-ae6f-88ea51872c43,P1005,Baby Lotion,Baby Care,7,29.6,2025-03-01,Chicago
+1f15643f-500e-4f94-b4aa-7d9b597c1c45,P1005,Baby Lotion,Baby Care,7,12.16,2024-07-20,New York
+d89e0660-c83a-4deb-8741-f32882911f0f,P1012,Body Lotion,Skin & Personal Care,2,3.96,2024-09-30,Los Angeles
+f7fcd61a-eda4-4b1c-91dc-6570de0d6e3a,P1008,Facial Tissues,Family Care,5,5.09,2024-09-14,Chicago
+f066471f-61a1-4c1b-b12d-7bf93a2bf1dc,P1008,Facial Tissues,Family Care,8,13.48,2025-02-28,New York
+c766a334-faed-4d54-b37a-4ecbcd37869f,P1013,Face Wash,Skin & Personal Care,5,29.13,2025-06-14,New York
+2a706527-001f-4007-81c6-9c0971425d0e,P1008,Facial Tissues,Family Care,10,24.98,2024-09-27,Los Angeles
+e8775683-a06a-49fd-87da-5ce464d88af4,P1015,Mouthwash,Oral Care,7,14.88,2024-11-24,New York
+075325fb-0f74-4a53-a112-5668abbf6f19,P1011,Hair Conditioner,Hair Care,8,22.3,2024-10-22,New York
+5128f1c0-8523-4b99-b54e-026c88b4ddb8,P1007,Tampons,Feminine Care,2,4.43,2024-08-03,New York
+13e760af-1367-4426-8878-c5633f6d8443,P1004,Diapers,Baby Care,1,5.35,2024-08-04,Los Angeles
+a9c77fdb-9c06-47bd-bf24-365d057afb0b,P1000,Liquid Detergent,Fabric Care,3,13.87,2024-07-14,Los Angeles
+a7091792-2ad4-4a58-8c0a-29d3896890b2,P1017,Cough Syrup,Personal Health Care,9,16.94,2025-03-16,New York
+967bd040-067b-4db8-aeeb-93f4e690c3f8,P1016,Pain Relief Tablets,Personal Health Care,1,23.87,2025-03-24,Chicago
+07168407-1dbd-45ba-84fb-392f04597904,P1013,Face Wash,Skin & Personal Care,6,22.56,2025-02-19,Chicago
+16eed8ff-938e-4417-8ea1-185d7f806542,P1018,Razor Blades,Grooming,2,26.59,2024-11-09,Los Angeles
+cbe57db7-1686-46e7-9d8a-2d816bb97537,P1001,Fabric Softener,Fabric Care,3,11.63,2024-07-18,Los Angeles
+3aedd0e0-9006-49b4-954d-ab2158b3cc8f,P1019,Shaving Foam,Grooming,5,28.59,2024-09-08,Chicago
+b7750bda-e1a7-4500-a86d-c9ccc57e2daa,P1000,Liquid Detergent,Fabric Care,7,15.69,2025-02-10,Chicago
+de224844-be58-4d56-9334-dca9b91d56b1,P1005,Baby Lotion,Baby Care,1,4.35,2024-07-01,New York
+b213e0ba-656f-43ef-bd63-2290ff6f9248,P1019,Shaving Foam,Grooming,8,20.53,2025-05-19,New York
+ae73c031-f164-43a4-9533-1d22de61cd96,P1007,Tampons,Feminine Care,5,15.34,2025-01-29,Los Angeles
+cd476360-aaa4-482d-95a9-f54923697c3c,P1000,Liquid Detergent,Fabric Care,6,3.79,2025-03-04,New York
+bc4cf465-03b2-45fb-8633-2ae9ebe01dcb,P1009,Paper Towels,Family Care,4,26.79,2024-08-14,Chicago
+22b6d561-49bd-4096-bc17-04a77714057e,P1000,Liquid Detergent,Fabric Care,2,9.65,2024-08-08,Chicago
+04fb6d9a-d3b1-464e-b50b-709d248a8dd7,P1008,Facial Tissues,Family Care,4,22.8,2025-04-16,Los Angeles
+3ddb0e7c-2587-4d24-a56b-c4f067758fcb,P1018,Razor Blades,Grooming,2,6.76,2025-02-14,New York
+25724f76-647d-4ead-b477-69831563b71d,P1012,Body Lotion,Skin & Personal Care,3,8.18,2025-06-19,Chicago
+e31f32a7-2d12-4df4-9cb0-c0c6fa205b90,P1005,Baby Lotion,Baby Care,2,27.52,2024-12-09,New York
+8b38a3ae-e453-4a60-adea-f34e867b1d36,P1001,Fabric Softener,Fabric Care,5,23.4,2025-01-02,Chicago
+2b01c79e-efa9-41e8-b84c-1f36eac68eb1,P1016,Pain Relief Tablets,Personal Health Care,10,2.28,2024-11-19,Chicago
+09da59c4-5924-47df-b9b7-02ec0694955c,P1004,Diapers,Baby Care,8,22.18,2025-06-02,Los Angeles
+57895609-c7ed-4ea6-a947-200c17577430,P1012,Body Lotion,Skin & Personal Care,5,20.61,2024-10-10,Los Angeles
+e7c32d94-970b-420f-be9c-c05ecce98984,P1012,Body Lotion,Skin & Personal Care,2,14.52,2024-12-17,New York
+5ad40dfb-6c4d-4776-9b5b-a317a6b02931,P1003,Floor Cleaner,Home Care,6,19.1,2024-08-29,Chicago
+eb850be9-9fec-4315-a6e5-8126cb527b81,P1009,Paper Towels,Family Care,4,23.38,2025-02-17,Los Angeles
+5e46648a-6532-47f9-b970-b11e9e8e28cc,P1005,Baby Lotion,Baby Care,6,28.13,2024-11-26,Chicago
+757b201a-a2e5-4fb1-b2ac-44e39d0df79c,P1011,Hair Conditioner,Hair Care,10,28.77,2025-04-09,Los Angeles
+9fe950da-8108-475a-8be0-4e100bf22e3a,P1011,Hair Conditioner,Hair Care,9,16.52,2024-09-17,Los Angeles
+ff4713b6-3ac8-4e99-93ec-cf558de4d599,P1015,Mouthwash,Oral Care,5,8.32,2024-11-22,Chicago
